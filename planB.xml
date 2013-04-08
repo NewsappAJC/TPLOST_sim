@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<docbase fundedTotal="5272500000">
+ <Project Cost="93000000" Funded="false" Location="Cobb, Fulton" Pid="TIA-CO-043" ProjType="Expansion" descript="Cobb Parkway/Windy Hill Rd. build bridge over intersection" finishDate="none" type="Road"/>
+ <Project Cost="102000000" Funded="false" Location="Clayton" Pid="TIA-CL-018" ProjType="Expansion" descript="Tara Blvd. from I-75 to Battle Creek Rd. &quot;super arterial&quot; improvement" finishDate="none" type="Road"/>
+ <Project Cost="19900000" Funded="false" Location="Gwinnett" Pid="TIA-GW-018" ProjType="Expansion" descript="New Satellite Blvd-Hillcrest Rd. connector road, I-85 overpass" finishDate="none" type="Road"/>
+ <Project Cost="450000000" Funded="false" Location="Fulton" Pid="TIA-AR-030" ProjType="Expansion" descript="I-285/Ga. 400 interchange expansion with added Ga. 400 sorting lanes" finishDate="after 2030, as part of 2B toll project" type="Road"/>
+ <Project Cost="53000000" Funded="false" Location="DeKalb" Pid="TIA-AR-040" ProjType="Expansion" descript="Spaghetti Junction expansion" finishDate="none" type="Road"/>
+ <Project Cost="17000000" Funded="false" Location="Regional" Pid="TIA-AR-044" ProjType="Service" descript="Regional Mobility Call Center to merge transit assistance for elderly/disabled" finishDate="none" type="Transit"/>
+ <Project Cost="856000000" Funded="false" Location="Cobb, Fulton" Pid="TIA-M-028" ProjType="Service" descript="Rail line from Midtown to Cumberland" finishDate="none" type="Transit"/>
+ <Project Cost="600000000" Funded="false" Location="Fulton" Pid="TIA-AT-004, TIA-AT-007" ProjType="Service" descript="Atlanta streetcar" finishDate="none" type="Transit"/>
+ <Project Cost="100000000" Funded="false" Location="Clayton" Pid="TIA-CL-006" ProjType="Service" descript="Clayton County local bus service, operate for 10 years" finishDate="none" type="Transit"/>
+ <Project Cost="98000000" Funded="false" Location="Fulton/DeKalb" Pid="TIA-M-002" ProjType="Repair" descript="MARTA elevator and escalator rehab" finishDate="small portion done, rest not funded." type="Transit"/>
+ <Project Cost="120000000" Funded="true" Location="Regionwide" Pid="AR-280-2014 etc." ProjType="Service" descript="GRTA Xpress bus funding for 10 years, if approval continues" finishDate="operating funds for ten years, if approval continues" type="Transit"/>
+ <Project Cost="100000000" Funded="true" Location="DeKalb" Pid="DK-AR-241" ProjType="Expansion" descript="Eastern I-285/I-20 Interchange expansion" finishDate="by 2020" type="Road"/>
+ <Project Cost="2000000000" Funded="true" Location="Regionwide" Pid="AR-240-LR1" ProjType="Repair" descript="Bridge preservation on state system through 2030" finishDate="funding through 2030" type="Road"/>
+ <Project Cost="1750000000" Funded="true" Location="Regionwide" Pid="AR-200-LR1" ProjType="Repair" descript="Interstate highway paving through 2030" finishDate="funding through 2030" type="Road"/>
+ <Project Cost="186000000" Funded="true" Location="" Pid="DK-401" ProjType="Expansion" descript="Sorting lanes along northern I-285, Ashford Dunwoody to Ptree Industrial" finishDate="by 2030" type="Road"/>
+ <Project Cost="75000000" Funded="true" Location="Fulton" Pid="FN-AR-203" ProjType="Expansion" descript="I-285 and Roswell Road interchange expansion" finishDate="by 2030" type="Road"/>
+ <Project Cost="306000000" Funded="true" Location="Fulton" Pid="AT-244" ProjType="Expansion" descript="Rebuild western I-285/I-20 interchange" finishDate="by 2030" type="Road"/>
+ <Project Cost="109500000" Funded="true" Location="Cherokee" Pid="CH-020A2" ProjType="Expansion" descript="Ga. 20 widening from Fincher Rd. to I-575" finishDate="by 2030" type="Road"/>
+ <Project Cost="90000000" Funded="true" Location="Gwinnett" Pid="AR-ML-410" ProjType="Expansion" descript="I-85 HOT lane extension from Old Peachtree Road farther north (tax subsidy in addition to toll money)" finishDate="by 2030" type="Road"/>
+ <Project Cost="536000000" Funded="true" Location="Cobb and Cherokee" Pid="AR-ML-930" ProjType="Expansion" descript="I-75 and I-575 HOT lanes (maximum tax subsidy)" finishDate="by 2020" type="Road"/>
+</docbase>

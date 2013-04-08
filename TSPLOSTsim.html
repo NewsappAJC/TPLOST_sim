@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<base target="_parent" />
+<title>How would you fix our transportation mess?</title>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" type="text/css"/>
+<link rel="stylesheet" href="http://host.coxmediagroup.com/ajc/digitalprojects/global/css/iFrame_Medley.css"type="text/css"/>
+<link rel="stylesheet" type="text/css" href="tsim.css" />
+<!--[if IE]><script src="http://alt.coxnewsweb.com/ajc/_newsapps/libraries/browsersupport/excanvas.min.js"></script><![endif]-->
+<script src="http://code.jquery.com/jquery-1.9.1.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript" src="http://alt.coxnewsweb.com/ajc/_newsapps/libraries/graphics/flot/jquery.flot.js"></script>
+<script language="javascript" type="text/javascript" src="http://alt.coxnewsweb.com/ajc/_newsapps/libraries/graphics/flot/jquery.flot.pie.js"></script>
+<script language="javascript" type="text/javascript" src="js/planBsim.js"></script>
+
+</head>
+<body>
+	<div id="graphblock" class="clearfix">				
+		<span style="width:48%; float:left; margin-left:10px">
+			<div class="cmTimeStamp"><p></p></div>
+			<h1 class="cmLargerH1">How would you fix our transportation mess?</h1>
+			<p class="cmCredit">By <a href="http://www.ajc.com/staff/ariel-hart/">Ariel Hart</a></p>
+			<p class="cmCredit">Application by <a href="http://www.ajc.com/staff/emily-merwin/">Emily Merwin</a></p>
+			<p class="cmSource">The Atlanta Journal-Constitution</p>
+			<p>Try your hand at managing a transportation budget. Below, the projects marked in the left column are a few in the current budget. The others listed are some of the top projects from last year’s proposed (and failed) T-SPLOST list. Which current projects would you delete/postpone, if any, to make space for T-SPLOST ones? The overall budget chart at bottom will adjust based on your choices.</p>
+			<p>Here's a bonus: As you make your choices, imagine all the rules that currently restrict transportation funding don't apply to you. For you, spending gas tax money on transit projects wouldn't violate the Georgia Constitution (as it would with lawmakers). Have fun!</p>
+			<p><strong>Related:</strong> <a href="http://www.myajc.com/news/news/transportation/t-splost-plan-b-not-this-year/nW9Wb/">T-SPLOST: Plan B? Not this year</a></p>
+		</span><span id="grapharea"><span id="default" class="graph"></span><span id="statusBox"><span id="budget"></span><button id="submitbutton">Submit</button></span></span>
+	</div>
+	<div>
+		<div id="dialTop">
+			<div id="dial">
+				<div id="btnCon" class="clearfix">
+ 					<span id="col1"></span>
+ 					<span id="col2"></span>
+				</div>
+				<div id="dialog" title="Results">
+					<p><span style="float: left; margin: 0 7px 20px 0;"></span></p>
+				</div>
+				<div id="oops" title="Over budget">
+					<p>Oops! You don't have enough money left in your budget for that!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
